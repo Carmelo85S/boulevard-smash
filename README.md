@@ -100,4 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Phone**: +46 8 123 45 67
 - **Email**: info@bistroboulevard.se
 
+Started with Lovable for a nice structure, then improved heavly by me
+
+
 ---
